@@ -11,3 +11,10 @@ Speichere die Datei als global.ini wie in den Patchnotes angegeben.
 <mark> g_language = german_(germany) </mark>
 
 [Star Citizen Alpha 3.20.0b Patchnotes](https://robertsspaceindustries.com/spectrum/community/SC/forum/190048/thread/star-citizen-alpha-3-20-0b-live-patch-notes)
+
+
+## Zu Übersetzung beitragen
+
+Möchtest Du helfen die Übersetzung zu verfolständigen oder zu verbessern, lies Dir bitte unsere Anleitung zum Beitragen durch.
+
+[CONTRIBUTING.md](docs/CONTRIBUTONG.md)
