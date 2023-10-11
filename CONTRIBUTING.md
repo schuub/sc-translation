@@ -21,7 +21,9 @@ Wenn die Dateien z.B. in das Verzeichnis `E:\projekt\translation` sollen, gehst 
 
 Wenn Du im richtigen Verzeichnis angekommen bist, gibst Du folgendes ein:
 
-```git clone https://github.com/StarHeadSC/sc-translation.git```
+```
+git clone https://github.com/StarHeadSC/sc-translation.git
+```
 
 Als nächstes musst Du deine Logindaten von GitHub eingeben. Achtung: Wenn Du das Passwort eingibst, wird nichts von der Eingabe in dem Fenster angezeigt.
 
