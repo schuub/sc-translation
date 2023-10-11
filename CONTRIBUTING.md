@@ -1,3 +1,13 @@
+# Zur Übersetzung beitragen
+
+## Programme und Tools
+Wenn Du dich an der Übersetzung beteiligen möchtest, solltest Du einige Programme und Tools installieren.
+### Git
+Git benötigst Du, um deine Änderungen in unser Repository zu übertragen.
+
+[GIt download Seite](https://git-scm.com/downloads)
+
+Folge den Anweisungen des Installationsprogrammes. Es reicht, wenn Du alles auf den Standarteinstellungen belässt, sofern Du keine Erfahrung mit Git hast.
 ### Visual Studio Code
 Ich empfehle hier das Programm Visual Studio Code. Es ist ein kostenloses Programm, mit dem Du alle möglichen Arten von Dateien bearbeiten kannst.
 
