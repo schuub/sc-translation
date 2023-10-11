@@ -17,4 +17,4 @@ Speichere die Datei als global.ini wie in den Patchnotes angegeben.
 
 Möchtest Du helfen die Übersetzung zu verfolständigen oder zu verbessern, lies Dir bitte unsere Anleitung zum Beitragen durch.
 
-[CONTRIBUTING.md](docs/CONTRIBUTONG.md)
+[CONTRIBUTING.md](CONTRIBUTONG.md)
