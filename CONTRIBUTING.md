@@ -64,4 +64,18 @@ git commit -m "Zeile xxx bis Zeile xxx"
 
 Gib bitte die Zeilennummern an, die Du übersetzt hast.
 
-Weitere Schritte folgen...
+Als nächstes müssen die Änderungen "Gepushed" werden.
+
+```
+git push --set-upstream origin translation/<username>
+```
+
+Ersetzte hier wieder <username> mit deinem eigenen Nutzernamen.
+
+Der Letzte Schritt ist die Erstellung eines Pull-Request. Dadurch werden wir darüber informiert, dass Du deine Änderungen abgeschlossen hast. Diese werden dann von uns geprüft und im Idealfall dann freigegeben und in die Eigentliche Übersetzung übernommen. Ganz automatisch.
+
+Gehe dazu auf [https://github.com/StarHeadSC/sc-translation/branches](https://github.com/StarHeadSC/sc-translation/branches), suche deinen Branch und klicke auf `New pull request`.
+Der titel sollte automatisch deiner letzten Commit-Nachricht entsprechen, Du kannst den titel aber auch anpassen. Optional kannst Du noch Hinweise oder Anmerkungen zu deinen Änderungen/Übersetzungen anfügen.
+Mit einem Klick auf `Create pull request` wird dieser erstellt. Sobald wir diesen Freigegeben haben werden die Anpassungen übernommen.
+
+Solltest Du noch weitere Fragen haben, kannst Du diese im Discord stellen.
