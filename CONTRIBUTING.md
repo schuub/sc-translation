@@ -39,6 +39,12 @@ Als nächstes musst Du deine Logindaten von GitHub eingeben. Achtung: Wenn Du da
 
 Die Dateien werden jetzt herunter geladen.
 
+Nachdem alles herunter geladen wurde, wechselst Du in das Projektverzeichnis:
+
+```
+cd sc-translation
+```
+
 Als nächstes legen wir einen neuen Branch an, in den Du deine Änderungen übermittelst.
 
 Dazu gibst Du folgendes in die Kommandozeile ein:
